@@ -1,16 +1,19 @@
-# React + Vite
+# SpendLens — AI Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SpendLens is an AI-powered expense tracker that helps users understand and manage their spending with intelligent insights.
 
-Currently, two official plugins are available:
+## 🚀 What it does
+- Automatically tracks and organizes expenses  
+- Provides AI-driven insights into spending patterns  
+- Simplifies personal finance with a clean, intuitive interface  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🧠 Why it’s different
+Instead of just logging expenses, SpendLens focuses on **understanding spending behavior** and making it actionable.
 
-## React Compiler
+## 🛠 Tech Stack
+- React + Vite  
+- [Add backend if any: Node.js / Firebase / etc.]  
+- [Add AI/ML tools if used]
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Project Link
+👉 https://github.com/itsrohitnegi1/spendlens-ai-expense-tracker
